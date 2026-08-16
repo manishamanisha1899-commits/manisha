@@ -33,8 +33,8 @@
 <div align="center">
 
 ```yaml
-name: Your Name
-role: Software Engineer · AI/ML Engineer · Full Stack Developer
+name: Manisha
+role:  Full Stack Developer
 focus: Building performant, scalable, production-grade systems
 mindset: Product-driven engineering with deep technical craftsmanship
 ```
